@@ -1,0 +1,2199 @@
+{
+  "kind": "calendar#events",
+  "etag": "\"p320fdadco3puq0g\"",
+  "summary": "Holidays in United Kingdom",
+  "updated": "2020-12-28T11:33:39.000Z",
+  "timeZone": "UTC",
+  "accessRole": "reader",
+  "defaultReminders": [],
+  "nextSyncToken": "CMCV3qnK8O0CEAAYAQ==",
+  "items": [
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190101_60o30dr268o30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTAxMDFfNjBvMzBkcjI2OG8zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "New Year's Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-01-01"
+      },
+      "end": {
+        "date": "2019-01-02"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190101_60o30dr268o30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190331_60o30c9o60o30dj26sqj0dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTAzMzFfNjBvMzBjOW82MG8zMGRqMjZzcWowZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Daylight Saving Time starts",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-03-31"
+      },
+      "end": {
+        "date": "2019-04-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190331_60o30c9o60o30dj26sqj0dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190419_60o30dr36so30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA0MTlfNjBvMzBkcjM2c28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Good Friday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-04-19"
+      },
+      "end": {
+        "date": "2019-04-20"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190419_60o30dr36so30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190421_60o30dr370o30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA0MjFfNjBvMzBkcjM3MG8zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Easter Sunday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-04-21"
+      },
+      "end": {
+        "date": "2019-04-22"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190421_60o30dr370o30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190506_60o30dr26go30e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA1MDZfNjBvMzBkcjI2Z28zMGUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Early May Bank Holiday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-05-06"
+      },
+      "end": {
+        "date": "2019-05-07"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190506_60o30dr26go30e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190527_60o30dr26ko30e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA1MjdfNjBvMzBkcjI2a28zMGUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Spring Bank Holiday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-05-27"
+      },
+      "end": {
+        "date": "2019-05-28"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190527_60o30dr26ko30e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20190608_60o32dr160o30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA2MDhfNjBvMzJkcjE2MG8zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Queen's Birthday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-06-08"
+      },
+      "end": {
+        "date": "2019-06-09"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190608_60o32dr160o30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20191027_60o30c9o64o30dj26sqj0dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTEwMjdfNjBvMzBjOW82NG8zMGRqMjZzcWowZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Daylight Saving Time ends",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-10-27"
+      },
+      "end": {
+        "date": "2019-10-28"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191027_60o30c9o64o30dj26sqj0dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20191031_60o30dr26so30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTEwMzFfNjBvMzBkcjI2c28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Halloween",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-10-31"
+      },
+      "end": {
+        "date": "2019-11-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191031_60o30dr26so30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20191105_60o30dr270o30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTExMDVfNjBvMzBkcjI3MG8zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Guy Fawkes Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-11-05"
+      },
+      "end": {
+        "date": "2019-11-06"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191105_60o30dr270o30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20191110_60o30ob2cco30e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTExMTBfNjBvMzBvYjJjY28zMGUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Remembrance Sunday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-11-10"
+      },
+      "end": {
+        "date": "2019-11-11"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191110_60o30ob2cco30e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20191225_60o30dr2c4o30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTEyMjVfNjBvMzBkcjJjNG8zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Christmas Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-12-25"
+      },
+      "end": {
+        "date": "2019-12-26"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191225_60o30dr2c4o30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20191226_60o30dr2c8o30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTEyMjZfNjBvMzBkcjJjOG8zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Boxing Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-12-26"
+      },
+      "end": {
+        "date": "2019-12-27"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191226_60o30dr2c8o30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200101_60o30dr268o30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDAxMDFfNjBvMzBkcjI2OG8zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "New Year's Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-01-01"
+      },
+      "end": {
+        "date": "2020-01-02"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200101_60o30dr268o30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200329_60o30c9o60o30dj26sqj0dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDAzMjlfNjBvMzBjOW82MG8zMGRqMjZzcWowZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Daylight Saving Time starts",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-03-29"
+      },
+      "end": {
+        "date": "2020-03-30"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200329_60o30c9o60o30dj26sqj0dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200410_60o30dr36so30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA0MTBfNjBvMzBkcjM2c28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Good Friday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-04-10"
+      },
+      "end": {
+        "date": "2020-04-11"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200410_60o30dr36so30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200412_60o30dr370o30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA0MTJfNjBvMzBkcjM3MG8zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Easter Sunday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-04-12"
+      },
+      "end": {
+        "date": "2020-04-13"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200412_60o30dr370o30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200423_60o30dr3cgo30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA0MjNfNjBvMzBkcjNjZ28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "St. George's Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-04-23"
+      },
+      "end": {
+        "date": "2020-04-24"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200423_60o30dr3cgo30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200525_60o30dr26ko30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA1MjVfNjBvMzBkcjI2a28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Spring Bank Holiday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-05-25"
+      },
+      "end": {
+        "date": "2020-05-26"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200525_60o30dr26ko30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20200613_60o32dr160o30e1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA2MTNfNjBvMzJkcjE2MG8zMGUxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Queen's Birthday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-06-13"
+      },
+      "end": {
+        "date": "2020-06-14"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200613_60o32dr160o30e1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201025_60o30c9o64o30dj26sqj0dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDEwMjVfNjBvMzBjOW82NG8zMGRqMjZzcWowZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Daylight Saving Time ends",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-10-25"
+      },
+      "end": {
+        "date": "2020-10-26"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201025_60o30c9o64o30dj26sqj0dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201031_60o30dr26so30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDEwMzFfNjBvMzBkcjI2c28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Halloween",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-10-31"
+      },
+      "end": {
+        "date": "2020-11-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201031_60o30dr26so30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201105_60o30dr270o30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDExMDVfNjBvMzBkcjI3MG8zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Guy Fawkes Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-11-05"
+      },
+      "end": {
+        "date": "2020-11-06"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201105_60o30dr270o30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201108_60o30ob2cco30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDExMDhfNjBvMzBvYjJjY28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Remembrance Sunday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-11-08"
+      },
+      "end": {
+        "date": "2020-11-09"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201108_60o30ob2cco30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201225_60o30dr2c4o30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDEyMjVfNjBvMzBkcjJjNG8zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Christmas Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-12-25"
+      },
+      "end": {
+        "date": "2020-12-26"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201225_60o30dr2c4o30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201226_60o30dr2c8o30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDEyMjZfNjBvMzBkcjJjOG8zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Boxing Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-12-26"
+      },
+      "end": {
+        "date": "2020-12-27"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201226_60o30dr2c8o30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20201228_60o30or4coo30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDEyMjhfNjBvMzBvcjRjb28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Substitute Bank Holiday for Boxing Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-12-28"
+      },
+      "end": {
+        "date": "2020-12-29"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201228_60o30or4coo30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210101_60o30dr268o30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTAxMDFfNjBvMzBkcjI2OG8zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "New Year's Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-01-01"
+      },
+      "end": {
+        "date": "2021-01-02"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210101_60o30dr268o30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210328_60o30c9o60o30dj26sqj0dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTAzMjhfNjBvMzBjOW82MG8zMGRqMjZzcWowZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Daylight Saving Time starts",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-03-28"
+      },
+      "end": {
+        "date": "2021-03-29"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210328_60o30c9o60o30dj26sqj0dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210402_60o30dr36so30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA0MDJfNjBvMzBkcjM2c28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Good Friday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-04-02"
+      },
+      "end": {
+        "date": "2021-04-03"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210402_60o30dr36so30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210404_60o30dr370o30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA0MDRfNjBvMzBkcjM3MG8zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Easter Sunday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-04-04"
+      },
+      "end": {
+        "date": "2021-04-05"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210404_60o30dr370o30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210423_60o30dr3cgo30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA0MjNfNjBvMzBkcjNjZ28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "St. George's Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-04-23"
+      },
+      "end": {
+        "date": "2021-04-24"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210423_60o30dr3cgo30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210503_60o30dr26go30e1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA1MDNfNjBvMzBkcjI2Z28zMGUxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Early May Bank Holiday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-05-03"
+      },
+      "end": {
+        "date": "2021-05-04"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210503_60o30dr26go30e1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210531_60o30dr26ko30e1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA1MzFfNjBvMzBkcjI2a28zMGUxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Spring Bank Holiday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-05-31"
+      },
+      "end": {
+        "date": "2021-06-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210531_60o30dr26ko30e1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20210612_60o32dr160o30e1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA2MTJfNjBvMzJkcjE2MG8zMGUxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Queen's Birthday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-06-12"
+      },
+      "end": {
+        "date": "2021-06-13"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210612_60o32dr160o30e1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211031_60o30c9o64o30dj26sqj0dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTEwMzFfNjBvMzBjOW82NG8zMGRqMjZzcWowZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Daylight Saving Time ends",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-10-31"
+      },
+      "end": {
+        "date": "2021-11-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211031_60o30c9o64o30dj26sqj0dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211031_60o30dr26so30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTEwMzFfNjBvMzBkcjI2c28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Halloween",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-10-31"
+      },
+      "end": {
+        "date": "2021-11-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211031_60o30dr26so30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211105_60o30dr270o30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTExMDVfNjBvMzBkcjI3MG8zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Guy Fawkes Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-11-05"
+      },
+      "end": {
+        "date": "2021-11-06"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211105_60o30dr270o30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211114_60o30ob2cco30e1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTExMTRfNjBvMzBvYjJjY28zMGUxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Remembrance Sunday",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-11-14"
+      },
+      "end": {
+        "date": "2021-11-15"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211114_60o30ob2cco30e1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211225_60o30dr2c4o30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTEyMjVfNjBvMzBkcjJjNG8zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Christmas Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-12-25"
+      },
+      "end": {
+        "date": "2021-12-26"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211225_60o30dr2c4o30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211226_60o30dr2c8o30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTEyMjZfNjBvMzBkcjJjOG8zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Boxing Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-12-26"
+      },
+      "end": {
+        "date": "2021-12-27"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211226_60o30dr2c8o30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211227_60o30or4cko30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTEyMjdfNjBvMzBvcjRja28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Substitute Bank Holiday for Christmas Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-12-27"
+      },
+      "end": {
+        "date": "2021-12-28"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211227_60o30or4cko30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3101473502000000\"",
+      "id": "20211228_60o30or4coo30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTEyMjhfNjBvMzBvcjRjb28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-02-21T08:12:31.000Z",
+      "updated": "2019-02-21T08:12:31.000Z",
+      "summary": "Substitute Bank Holiday for Boxing Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-12-28"
+      },
+      "end": {
+        "date": "2021-12-29"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211228_60o30or4coo30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20190301_60o30dr3cco30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTAzMDFfNjBvMzBkcjNjY28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St. David's Day (Wales)",
+      "description": "Holiday or observance in: Wales",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-03-01"
+      },
+      "end": {
+        "date": "2019-03-02"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190301_60o30dr3cco30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20190317_60o30dr36go30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTAzMTdfNjBvMzBkcjM2Z28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St Patrick's Day (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-03-17"
+      },
+      "end": {
+        "date": "2019-03-18"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190317_60o30dr36go30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20190318_60o30dr36go30e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTAzMThfNjBvMzBkcjM2Z28zMGUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Day off for St Patrick's Day (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-03-18"
+      },
+      "end": {
+        "date": "2019-03-19"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190318_60o30dr36go30e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20190712_60o30dr36ko30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA3MTJfNjBvMzBkcjM2a28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Battle of the Boyne (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-07-12"
+      },
+      "end": {
+        "date": "2019-07-13"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190712_60o30dr36ko30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20190826_60o30dr2cgo32e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA4MjZfNjBvMzBkcjJjZ28zMmUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Summer Bank Holiday (regional holiday)",
+      "description": "Holiday or observance in: England, Wales, Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-08-26"
+      },
+      "end": {
+        "date": "2019-08-27"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190826_60o30dr2cgo32e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20191130_60o30dr36oo30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTExMzBfNjBvMzBkcjM2b28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St Andrew's Day (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-11-30"
+      },
+      "end": {
+        "date": "2019-12-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191130_60o30dr36oo30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20191202_60o30dr36oo30e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTEyMDJfNjBvMzBkcjM2b28zMGUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St Andrew's Day observed (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-12-02"
+      },
+      "end": {
+        "date": "2019-12-03"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20191202_60o30dr36oo30e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20200102_60o30dr36co30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDAxMDJfNjBvMzBkcjM2Y28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "2nd January (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-01-02"
+      },
+      "end": {
+        "date": "2020-01-03"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200102_60o30dr36co30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20200712_60o30dr36ko30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA3MTJfNjBvMzBkcjM2a28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Battle of the Boyne (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-07-12"
+      },
+      "end": {
+        "date": "2020-07-13"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200712_60o30dr36ko30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20200713_60o30dr36ko30e1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA3MTNfNjBvMzBkcjM2a28zMGUxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Battle of the Boyne observed (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-07-13"
+      },
+      "end": {
+        "date": "2020-07-14"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200713_60o30dr36ko30e1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20200831_60o30dr2cgo32e1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA4MzFfNjBvMzBkcjJjZ28zMmUxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Summer Bank Holiday (regional holiday)",
+      "description": "Holiday or observance in: England, Wales, Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-08-31"
+      },
+      "end": {
+        "date": "2020-09-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200831_60o30dr2cgo32e1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20210301_60o30dr3cco30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTAzMDFfNjBvMzBkcjNjY28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St. David's Day (Wales)",
+      "description": "Holiday or observance in: Wales",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-03-01"
+      },
+      "end": {
+        "date": "2021-03-02"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210301_60o30dr3cco30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20210317_60o30dr36go30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTAzMTdfNjBvMzBkcjM2Z28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St Patrick's Day (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-03-17"
+      },
+      "end": {
+        "date": "2021-03-18"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210317_60o30dr36go30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20210712_60o30dr36ko30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA3MTJfNjBvMzBkcjM2a28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Battle of the Boyne (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-07-12"
+      },
+      "end": {
+        "date": "2021-07-13"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210712_60o30dr36ko30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20210802_60o30dr2cgo34e1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA4MDJfNjBvMzBkcjJjZ28zNGUxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "Summer Bank Holiday (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-08-02"
+      },
+      "end": {
+        "date": "2021-08-03"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210802_60o30dr2cgo34e1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787862000000\"",
+      "id": "20211130_60o30dr36oo30c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTExMzBfNjBvMzBkcjM2b28zMGMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:11.000Z",
+      "updated": "2019-05-20T23:12:11.000Z",
+      "summary": "St Andrew's Day (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-11-30"
+      },
+      "end": {
+        "date": "2021-12-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20211130_60o30dr36oo30c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20190102_60o30dr36co30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTAxMDJfNjBvMzBkcjM2Y28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "2nd January (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-01-02"
+      },
+      "end": {
+        "date": "2019-01-03"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190102_60o30dr36co30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20190805_60o30dr2cgo34e1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA4MDVfNjBvMzBkcjJjZ28zNGUxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "Summer Bank Holiday (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-08-05"
+      },
+      "end": {
+        "date": "2019-08-06"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190805_60o30dr2cgo34e1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20200301_60o30dr3cco30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDAzMDFfNjBvMzBkcjNjY28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "St. David's Day (Wales)",
+      "description": "Holiday or observance in: Wales",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-03-01"
+      },
+      "end": {
+        "date": "2020-03-02"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200301_60o30dr3cco30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20200317_60o30dr36go30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDAzMTdfNjBvMzBkcjM2Z28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "St Patrick's Day (Northern Ireland)",
+      "description": "Holiday or observance in: Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-03-17"
+      },
+      "end": {
+        "date": "2020-03-18"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200317_60o30dr36go30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20200803_60o30dr2cgo34e1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA4MDNfNjBvMzBkcjJjZ28zNGUxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "Summer Bank Holiday (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-08-03"
+      },
+      "end": {
+        "date": "2020-08-04"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200803_60o30dr2cgo34e1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20201130_60o30dr36oo30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDExMzBfNjBvMzBkcjM2b28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "St Andrew's Day (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-11-30"
+      },
+      "end": {
+        "date": "2020-12-01"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20201130_60o30dr36oo30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20210104_60o30dr36co32c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTAxMDRfNjBvMzBkcjM2Y28zMmMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "2nd January (substitute day) (Scotland)",
+      "description": "Holiday or observance in: Scotland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-01-04"
+      },
+      "end": {
+        "date": "2021-01-05"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210104_60o30dr36co32c1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3116787864000000\"",
+      "id": "20210830_60o30dr2cgo32e1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA4MzBfNjBvMzBkcjJjZ28zMmUxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2019-05-20T23:12:12.000Z",
+      "updated": "2019-05-20T23:12:12.000Z",
+      "summary": "Summer Bank Holiday (regional holiday)",
+      "description": "Holiday or observance in: England, Wales, Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-08-30"
+      },
+      "end": {
+        "date": "2021-08-31"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210830_60o30dr2cgo32e1g60o30dr56k@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3122318762000000\"",
+      "id": "20190429_60o30dr3cgo30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA0MjlfNjBvMzBkcjNjZ28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2019-06-21T23:23:01.000Z",
+      "updated": "2019-06-21T23:23:01.000Z",
+      "summary": "St. George's Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-04-29"
+      },
+      "end": {
+        "date": "2019-04-30"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190429_60o30dr3cgo30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3142190140000000\"",
+      "id": "20200508_60o30dr26go32c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA1MDhfNjBvMzBkcjI2Z28zMmMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2019-10-14T23:17:50.000Z",
+      "updated": "2019-10-14T23:17:50.000Z",
+      "summary": "Early May Bank Holiday / VE Day",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-05-08"
+      },
+      "end": {
+        "date": "2020-05-09"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200508_60o30dr26go32c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3210522186000000\"",
+      "id": "20190422_60o30dr2cco30c1g60o30dr56c",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAxOTA0MjJfNjBvMzBkcjJjY28zMGMxZzYwbzMwZHI1NmMgZW4udWsjaG9saWRheUB2",
+      "created": "2020-11-13T09:51:33.000Z",
+      "updated": "2020-11-13T09:51:33.000Z",
+      "summary": "Easter Monday (regional holiday)",
+      "description": "Holiday or observance in: England, Wales, Scotland, Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2019-04-22"
+      },
+      "end": {
+        "date": "2019-04-23"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20190422_60o30dr2cco30c1g60o30dr56c@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3210522186000000\"",
+      "id": "20200413_60o30dr2cco30c1g60o30dr56g",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMDA0MTNfNjBvMzBkcjJjY28zMGMxZzYwbzMwZHI1NmcgZW4udWsjaG9saWRheUB2",
+      "created": "2020-11-13T09:51:33.000Z",
+      "updated": "2020-11-13T09:51:33.000Z",
+      "summary": "Easter Monday (regional holiday)",
+      "description": "Holiday or observance in: England, Wales, Scotland, Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2020-04-13"
+      },
+      "end": {
+        "date": "2020-04-14"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20200413_60o30dr2cco30c1g60o30dr56g@google.com",
+      "sequence": 0
+    },
+    {
+      "kind": "calendar#event",
+      "etag": "\"3210522186000000\"",
+      "id": "20210405_60o30dr2cco32c1g60o30dr56k",
+      "status": "confirmed",
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjAyMTA0MDVfNjBvMzBkcjJjY28zMmMxZzYwbzMwZHI1NmsgZW4udWsjaG9saWRheUB2",
+      "created": "2020-11-13T09:51:33.000Z",
+      "updated": "2020-11-13T09:51:33.000Z",
+      "summary": "Easter Monday (regional holiday)",
+      "description": "Holiday or observance in: England, Wales, Scotland, Northern Ireland",
+      "creator": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "organizer": {
+        "email": "en.uk#holiday@group.v.calendar.google.com",
+        "displayName": "Holidays in United Kingdom",
+        "self": true
+      },
+      "start": {
+        "date": "2021-04-05"
+      },
+      "end": {
+        "date": "2021-04-06"
+      },
+      "transparency": "transparent",
+      "visibility": "public",
+      "iCalUID": "20210405_60o30dr2cco32c1g60o30dr56k@google.com",
+      "sequence": 0
+    }
+  ]
+}
