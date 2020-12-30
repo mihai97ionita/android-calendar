@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".CalendarByMonthActivity">
 
     <!-- Add TextView to display the date -->
 
@@ -37,9 +37,11 @@
         android:layout_width="129dp"
         android:layout_height="63dp"
         android:layout_below="@+id/calender"
-        android:layout_marginTop="45dp"
         android:layout_centerHorizontal="true"
-        tools:text="No holiday"/>
+        android:layout_marginTop="45dp"
+        android:textAlignment="center"
+        android:textColor="#009688"
+        tools:text="No holiday" />
 
 
 </RelativeLayout>

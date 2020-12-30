@@ -16,7 +16,7 @@ class UnitTest {
 
         val response = DataProvider.getJsonHoliday()
 
-        val list = response.responseToPublicHolidays()
+        val list = response.toPublicHolidays()
 
         assertNotNull(list)
         assertTrue(list.isNotEmpty())

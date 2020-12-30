@@ -7,8 +7,7 @@ import java.io.ByteArrayOutputStream
 import java.util.*
 
 
-//TODO check this method..
-fun Context.offlineFallbackHoliday(): String{
+fun Context.fallbackHolidayResponse(): String{
     val inputStream = this.resources.openRawResource(R.raw.fall_back_holiday)
     val result = ByteArrayOutputStream()
     val buffer = ByteArray(1024)
@@ -19,31 +18,28 @@ fun Context.offlineFallbackHoliday(): String{
     return result.toString("UTF-8")
 }
 
-fun Long.toDate(): Date {
-    return Date(this)
-}
-
-fun String.responseToPublicHolidays(): List<PublicHoliday> {
-    var list = ObjectMapper()
+fun String.toPublicHolidays(): List<PublicHoliday> {
+    val list = ObjectMapper()
         .configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
         .readValue(this, ApiResponse::class.java)
         .items
-    return list?.filter { it.endDate != null && it.startDate != null && it.summary != null && it.summary!!.isNotBlank() }
+    return list
+        ?.filter {
+                it.endDate != null &&
+                it.startDate != null &&
+                it.summary != null &&
+                it.summary!!.isNotBlank() }
         ?.map { PublicHoliday(summary = it.summary!!, startDate = it.startDate!!, endDate = it.endDate!!) }
         ?: emptyList()
 }
 
-fun List<PublicHoliday>.publicHolidayByDate(): Map<Date, List<PublicHoliday>>{
+fun List<PublicHoliday>.toMapByDate(): Map<Date, List<PublicHoliday>>{
     return this.groupBy { it.startDate }
-}
-
-fun PublicHoliday.toLine(): String{
-    return "${this.summary}"
 }
 
 fun List<PublicHoliday>.toText(): String{
     return this
-        .map { it.toLine() }
+        .map { "- ${it.summary}" }
         .ifEmpty { return "" }
         .reduce { acc, s ->
         acc + "$s\n"
